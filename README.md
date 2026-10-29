@@ -18,7 +18,7 @@ I build production-grade tools — full-stack web platforms, self-hosted analyti
 | [skare](https://github.com/automate-it0/skare) | Full-stack e-commerce store — Next.js, Prisma, admin dashboard, i18n, Playwright tests |
 | [QAorders](https://github.com/automate-it0/QAorders) | Multi-role enterprise ordering platform — Supabase Auth, Turso, Upstash Redis, Telegram admin alerts |
 | [QA-courses](https://github.com/automate-it0/QA-courses) | Interactive QA/education platform on Next.js 14 — student, parent, and admin dashboards |
-| [football-players-analisis](https://github.com/automate-it0/football-players-analisis) | Football scouting dashboard + RAG chatbot over StatsBomb event data (FastAPI, SQLite, Qwen2.5-Coder) |
+| [football-players-analysis](https://github.com/automate-it0/football-players-analysis) | Football scouting dashboard + RAG chatbot over StatsBomb event data (FastAPI, SQLite, Qwen2.5-Coder) |
 | [react-vulnerability-scanner](https://github.com/automate-it0/react-vulnerability-scanner) | Scans React apps for known vulnerabilities (incl. React2Shell) so they're patched before exploit |
 
 More security tooling: [zero-day-exploit-tracker](https://github.com/automate-it0/zero-day-exploit-tracker) · [crypto-api-key-leak-detector](https://github.com/automate-it0/crypto-api-key-leak-detector)
